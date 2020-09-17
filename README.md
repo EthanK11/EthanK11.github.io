@@ -1,4 +1,4 @@
-# My name is Ethan Kennedy. 
+# Ethan Kennedy. 
 
 
 
