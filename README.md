@@ -1,6 +1,6 @@
 # Ethan Kennedy 
 
-![Profile Picture] (https://media-exp1.licdn.com/dms/image/C4D03AQELu3hvvo9CtA/profile-displayphoto-shrink_400_400/0?e=1605744000&v=beta&t=B6urRV3MSsIZjI7Tnvgw-HB1gpjbsCiXcJA3UfAvebk)
+![Profile Picture] (https://user-images.githubusercontent.com/71404233/93617279-c519a880-f9a3-11ea-87ba-ecd81794f3d8.jpeg)
 
 I'm 18 and a first-year student at Lehigh. I enjoy exercising, reading, writing, listening to music, having fun. I love sports, mostly football and basketball. I am planning to study Business and Psychology which will help me in a Marketing position in the future. This page is for all of my work for our Data Journalism seminar. 
 
