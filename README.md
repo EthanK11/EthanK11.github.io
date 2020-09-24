@@ -1,6 +1,6 @@
 # Ethan Kennedy 
 
-![image](https://user-images.githubusercontent.com/71404233/93617279-c519a880-f9a3-11ea-87ba-ecd81794f3d8.jpeg)
+![image](https://user-images.githubusercontent.com/71404233/93617279-c519a880-f9a3-11ea-87ba-ecd81794f3d8.jpeg){:height="40px" width="40px"}
 
 
 
@@ -19,3 +19,16 @@ Using Lehigh University's Fall Profile, I collected data concerning undergraduat
 
 
 For more information, visit [Lehigh Fall Profile 2019](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
+
+
+
+
+# A Cowboys Fan's Statistical Analysis Comparing Dak Prescott and Carson Wentz
+
+
+infographic goes here*
+
+
+
+
+description: 
