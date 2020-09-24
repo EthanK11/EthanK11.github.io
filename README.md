@@ -23,9 +23,9 @@ For more information, visit [Lehigh Fall Profile 2019](https://oirsa.lehigh.edu/
 
 
 # A Cowboys Fan's Statistical Comparison of Dak Prescott and Carson Wentz
-![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/dak%20v%20wentz%20infographic%20(1).zip)
+![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/stat%20comparison%20dak%20vs%20wentz.png?raw=true)
 
 
+The infographic above displays the statistics of Cowboys and Eagles Quarterbacks Dak Prescott and Carson Wentz from 2016 to currently Week 2 of the 2020 NFL season. I collected the data from reliable, complete NFL data sets and compiled it into a side by side comparison to support my unbiased argument that Dak Prescott was the more talented quarterback out of the 2016 NFL draft. Confounding variables that would influence these statistics include: offensive line, coaching staff, wide receiver depth, and overall the talent of the team surrounding each player. From 2016 to 2019, Prescott played under Jason Garrett who is widely considered worse than Super Bowl-winning coach, Doug Pederson. As mentioned, Wentz was surrounded by a high caliber team but became injured and did not take his team through the playoffs to beat the Patriots in the Super bowl. Therefore, based on the varying advantages and disadvantages of each team, I have acknowledged these external factors and focused solely on their individual statistics. 
 
-
-description: 
+For more information, check out the sources of my data: [Dak Prescott](https://www.nfl.com/players/dak-prescott/stats/) and [Carson Wentz](https://www.nfl.com/players/carson-wentz/stats/)
