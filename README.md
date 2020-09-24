@@ -18,4 +18,4 @@ I'm 18 and a first-year student at Lehigh. I enjoy exercising, reading, writing,
 Using Lehigh University's Fall Profile, I collected data concerning undergraduate student enrollment. I created an infographic on Canva displaying the distribution of ungraduate student enrollment in each of the colleges, provided by Lehigh's Office of Institutional Research & Strategic Analytics. I selected a charcoal background color, used a grid to format an aerial photo of campus, wrote a title, and created a mulitcolor pie chart to show the percentage of students enrolled in each college. 
 
 
-For more information, visit https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf
+For more information, visit [Lehigh Fall Profile 2019](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
