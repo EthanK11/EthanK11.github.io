@@ -1,8 +1,7 @@
 # Ethan Kennedy 
 
-![image](https://user-images.githubusercontent.com/71404233/93617279-c519a880-f9a3-11ea-87ba-ecd81794f3d8.jpeg){:height="40px"width="40px"}
 
-<img src="https://user-images.githubusercontent.com/71404233/93617279-c519a880-f9a3-11ea-87ba-ecd81794f3d8.jpeg" alt="photo" width="500" height="300"/>
+<img src="https://user-images.githubusercontent.com/71404233/93617279-c519a880-f9a3-11ea-87ba-ecd81794f3d8.jpeg" alt="photo" width="300" height="500"/>
 
 # About Me
 
