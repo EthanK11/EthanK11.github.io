@@ -23,9 +23,7 @@ For more information, visit [Lehigh Fall Profile 2019](https://oirsa.lehigh.edu/
 
 
 # A Cowboys Fan's Statistical Comparison of Dak Prescott and Carson Wentz
-
-
-infographic goes here*
+![image](link)
 
 
 
