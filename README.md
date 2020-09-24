@@ -10,7 +10,6 @@
 I'm 18 and a first-year student at Lehigh. I enjoy exercising, reading, writing, listening to music, having fun. I love sports, mostly football and basketball. I am planning to study Business and Psychology which will help me with a Marketing position in the future. This page is for all of my work for our Data Journalism seminar. 
 
 
-https://github.com/EthanK11/EthanK11.github.io/blob/master/student%20enrollment.png
 
 
 
