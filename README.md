@@ -32,6 +32,6 @@ For more information, check out the sources of my data: [Dak Prescott](https://w
 
 
 
-# LEHIGH VS. LAFAYETTE - OVER THE YEARS
+# Lehigh vs. Lafayette Football - Over the Years 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UJPC4WAYCl6SZgQV8Ot9y-ZT3ZBR3L-D2SG4OZKrIhs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
