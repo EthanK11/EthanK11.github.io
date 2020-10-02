@@ -38,5 +38,6 @@ For more information, check out the sources of my data: [Dak Prescott](https://w
 
 
 # The Weeknd's Rise to Icon
+<iframe src='https://cdn.knightlab.com/libs/timeline/latest/embed/?source=1cWqQBZCkX9GpzFtxCWHoqFXCHg-ylTVUWlnrdYMzKUI&font=Bevan-PotanoSans&maptype=toner&width=600&height=600' width='600' height='600' frameborder='0'></iframe>
+                                
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1g0Wu_8gAR0k_Ygyz7I3mU4OTu83Yei23t5U6QZHuiCo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
