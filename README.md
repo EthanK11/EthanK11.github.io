@@ -40,12 +40,17 @@ For more information, check out the sources of my data: [Dak Prescott](https://w
 # The Weeknd's Rise to Fame
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1g0Wu_8gAR0k_Ygyz7I3mU4OTu83Yei23t5U6QZHuiCo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-# Population of The World's Largest Countries: China, India, and the US
+This timeline displays The Weeknd's success throughout his career, beginning as an unknown singer in 2011, to becoming the world's biggest artist today. I detail his accomplishments within each of his projects or albums including: Trilogy (a remastered compilation of early mixtapes), Kiss Land, Beauty Behind the Madness, Starboy, My Dear Melancholy, and most recently, After Hours. 
+
+# Population of The World's Largest Countries: China, India, and the United States
 ![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/Population_of_China,_India,_and_US__China_India_US_chartbuilder.png?raw=true)
+
+This chart displays the population growth from 1970 to 2020 of the world's three most populated countries, which are China, India, and the United States, in order of population. It shows that the US was fairly constant in its growth, as the chart shows a fairly horizontal line, while China and India appear to be growing more rapidly and are closer in population. 
 
 # Distribution of Undergraduate Enrollment in 2019 at Lehigh University
 ![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/Distribution_of_Undergraduate_Enrollment_in_2019_at_Lehigh_University_College_&_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
+This bar graph displays the distribution of the enrollment in Lehigh's six colleges: Arts & Sciences, Engineering & Applied Science, Business, Intercollegiate Programs, Arts/Engineering, and General College Division, in order from highest enrollment to lowest. The data was collected from Lehigh University's 2019 Fall Profile and indicates that Lehigh has very strong arts & science students, and strong engineering and business programs. 
 
                                 
 
