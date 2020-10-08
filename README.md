@@ -43,6 +43,8 @@ For more information, check out the sources of my data: [Dak Prescott](https://w
 # Population of The World's Largest Countries: China, India, and the US
 ![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/Population_of_China,_India,_and_US__China_India_US_chartbuilder.png?raw=true)
 
+# Distribution of Undergraduate Enrollment in 2019 at Lehigh University
+![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/Distribution_of_Undergraduate_Enrollment_in_2019_at_Lehigh_University_College_&_2019_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
 
                                 
