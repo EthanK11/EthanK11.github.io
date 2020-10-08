@@ -59,5 +59,12 @@ This chart shows  the population growth from 1970 to 2020 of the world's three m
 
 This bar graph displays the distribution of the enrollment in Lehigh's six colleges: Arts & Sciences, Engineering & Applied Science, Business, Intercollegiate Programs, Arts/Engineering, and General College Division, in order from highest enrollment to lowest. The data was collected from Lehigh University's 2019 Fall Profile and indicates that Lehigh has very strong arts & science students, and strong engineering and business programs. 
 
+
+
+# Total Spotify Streams of 2020 Albums that Peaked at #1 on the Billboard Chart 
+![image](https://github.com/EthanK11/EthanK11.github.io/blob/37b7a45ffb481ba12fab0647c826328e5e77a431/Total_Streams_of_Albums_that_Peaked_at_%231_in_2020_Number_of_Streams_(billions)_chartbuilder.png?raw=true)
+
+This bar graph exhibits the Spotify streams of 9 albums that peaked at #1 on the Billboard 200 Chart. The data was collected from both Spotify and Billboard and contains albums from The Weeknd, Harry Styles, BTS, Justin Bieber, Lil Uzi Vert, Juice WRLD, Pop Smoke, Selena Gomez, and Lil Baby, in order of most to least streams. 
+
                                 
 
