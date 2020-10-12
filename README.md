@@ -6,7 +6,7 @@
 # About Me
 
 
-I'm 18 and a first-year student at Lehigh. I enjoy exercising, reading, writing, listening to music, having fun. I love sports, mostly football and basketball. I am planning to study Business and Psychology which will help me with a Marketing position in the future. This page is for all of my work for our Data Journalism seminar. 
+My name is Ethan Kennedy, I'm 18 and a first-year student at Lehigh. I'm from Bethlehem, PA and I enjoy exercising, reading, writing, listening to music, and having fun. I love sports, mostly football and basketball. I am planning to study Business and Psychology which will help me with a Marketing position in the future. This page is for all of my work for our Data Journalism seminar. I decided to take this class because I have had some experiences with Journalism courses that were very interesting and since I also took Statistics, I wanted to learn how the two subjects can be used together as tools for writing. 
 
 [LinkedIn Page](https://www.linkedin.com/in/ethan-kennedy-1b65741b2/)
 
@@ -14,7 +14,7 @@ I'm 18 and a first-year student at Lehigh. I enjoy exercising, reading, writing,
 # The Distribution of Undergradute Student Enrollment At Lehigh in 2019
 ![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/student%20enrollment.png?raw=true)
 
-Using Lehigh University's Fall Profile, I collected data concerning undergraduate student enrollment. I created an infographic displaying the distribution of ungraduate student enrollment in each of the colleges, provided by Lehigh's Office of Institutional Research & Strategic Analytics. I selected a charcoal background color, used a grid to format an aerial photo of campus, wrote a title, and created a mulitcolor pie chart to show the percentage of students enrolled in each college. 
+Using Lehigh University's Fall Profile, I collected data concerning undergraduate student enrollment. I created an infographic displaying the distribution of ungraduate student enrollment in each of the colleges, provided by Lehigh's Office of Institutional Research & Strategic Analytics. To break down the data further, there are 
 
 
 For more information, visit [Lehigh Fall Profile 2019](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
