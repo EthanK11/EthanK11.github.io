@@ -14,7 +14,7 @@ My name is Ethan Kennedy, I'm 18 and a first-year student at Lehigh. I'm from Be
 # The Distribution of Undergradute Student Enrollment At Lehigh in 2019
 ![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/student%20enrollment.png?raw=true)
 
-Using Lehigh University's Fall Profile, I collected data concerning undergraduate student enrollment. I created an infographic displaying the distribution of ungraduate student enrollment in each of the colleges, provided by Lehigh's Office of Institutional Research & Strategic Analytics. To break down the data further, there are 
+Using Lehigh University's Fall Profile, I collected data concerning undergraduate student enrollment. I created an infographic displaying the distribution of ungraduate student enrollment in each of the colleges, provided by Lehigh's Office of Institutional Research & Strategic Analytics. To break down the data further, across the six colleges in 2019 there were 5,178 total undergraduate students - 2,779 male and 2,399 female students. 
 
 
 For more information, visit [Lehigh Fall Profile 2019](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
@@ -22,7 +22,7 @@ For more information, visit [Lehigh Fall Profile 2019](https://oirsa.lehigh.edu/
 
 
 
-# A Cowboys Fan's Statistical Comparison of Dak Prescott and Carson Wentz
+# A Statistical Comparison of Dak Prescott and Carson Wentz
 ![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/stat%20comparison%20dak%20vs%20wentz.png?raw=true)
 
 
