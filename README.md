@@ -66,5 +66,10 @@ This bar graph displays the distribution of the enrollment in Lehigh's six colle
 
 This bar graph exhibits the Spotify streams of 9 albums that peaked at #1 on the Billboard 200 Chart. The data was collected from both Spotify and Billboard and contains albums from The Weeknd, Harry Styles, BTS, Justin Bieber, Lil Uzi Vert, Juice WRLD, Pop Smoke, Selena Gomez, and Lil Baby, in order of most to least streams. 
 
+
+# The Changes in Undergraduate Enrollment of Lehigh's Colleges from 2015-2019
+![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/Undergraduate_Enrollment_of_Lehigh's_Colleges_from_2015-2019_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+                                
+The above time series line chart shows the changes in undergraduate enrollment of Lehigh's College of Arts & Sciences, College of Business, and College of Engineering from 2015 to 2019. As the chart displays, in 2015 engineering was the college with the highest percentage of the undergraduate student body enrollment, with 35.9%, while Arts & Sciences was lower, at 32.7%. Beginning in 2016 and continuing up to the current academic year, the undergraduate enrollment in the College of Engineering declined while the undergraduate enrollment in the College of Arts & Sciences increased. In 2019, Engineering had 27.1% of undergraduate enrollment while Arts & Sciences had 36.6%. The College of Business has fluctuated but remained mostly the same over the past four years.                             
                                 
 
