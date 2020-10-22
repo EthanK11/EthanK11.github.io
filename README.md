@@ -84,3 +84,9 @@ The scatterplot above displays the relationship between 19 different countries' 
 
 The time series line chart above depicts the immense success of the iPhone, which constitues around 60% of Apple's total revenue. Following Steve Jobs' unveiling of this revolutionary device in 2007, sales hit 1.39 million in the first fiscal year. A year later, sales increased to 8 times that amount and continued to almost double for the subsequent four years, until 2013 where sales hit 150.26 million with the iPhone 5s, the first model with Touch ID and an M7 motion processor. In 2015, iPhone sales jumped to their peak of 231.22 million units sold, with the release of the iPhone 6s and 6s Plus, which included LTE-Advanced Networks and new 3D Touch Displays. Sales fluctuated over the next three years, with 217.72 million units sold in 2018, which was the last year that Apple reported iPhone unit sales at the end of their fiscal year. Apple claimed that these reports are "not necessarily representative of the strength of our business", indicating that they most likely want to keep this information more private from competitiors and investors.   
 
+
+
+# 2019 World's Top Cycling Cities
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1cg9hGel4FLPcExEa9l4xB6v80DhSgV5O" width="640" height="480"></iframe>
+
