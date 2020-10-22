@@ -90,3 +90,4 @@ The time series line chart above depicts the immense success of the iPhone, whic
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1cg9hGel4FLPcExEa9l4xB6v80DhSgV5O" width="640" height="480"></iframe>
 
+The above map, made using Google My Maps, illustrates the top 20 cycling cities in the world during 2019, ranked in this article: https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/
