@@ -74,7 +74,7 @@ body {
 
 <div class="navbar">
   <a href="#home">Home</a>
-  <div class="projects">
+  <div class="#projects">
     <button class="dropbtn">Dropdown 
       <i class="fa fa-caret-down"></i>
     </button>
