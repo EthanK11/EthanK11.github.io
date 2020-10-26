@@ -1,5 +1,6 @@
 
 
+<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -74,7 +75,8 @@ body {
 
 <div class="navbar">
   <a href="#home">Home</a>
-  <div class="#projects">
+  <a href="#news">News</a>
+  <div class="dropdown">
     <button class="dropbtn">Dropdown 
       <i class="fa fa-caret-down"></i>
     </button>
@@ -86,10 +88,12 @@ body {
   </div> 
 </div>
 
-
+<h3>Dropdown Menu inside a Navigation Bar</h3>
+<p>Hover over the "Dropdown" link to see the dropdown menu.</p>
 
 </body>
 </html>
+
 
 
 
