@@ -79,7 +79,7 @@ body {
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="#">Infographics</a>
+      <a href="#">https://ethank11.github.io/#infographics</a>
       <a href="#">Timelines</a>
       <a href="#">Charts</a>
       <a href="#">Maps</a>
@@ -101,7 +101,7 @@ body {
 
 
 
-
+# 
 # Ethan Kennedy 
 
 
