@@ -74,7 +74,7 @@ body {
 
 <div class="navbar">
   <a href="#home">Home</a>
-  <a href="#Infographics">Infographics</a>
+  <a href="https://ethank11.github.io/#infographics">Infographics</a>
   <div class="dropdown">
     <button class="dropbtn">Dropdown 
       <i class="fa fa-caret-down"></i>
