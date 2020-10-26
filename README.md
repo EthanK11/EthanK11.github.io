@@ -103,7 +103,7 @@ body {
 
 
 
-About Me
+**About Me**
 
 
 My name is Ethan Kennedy, I'm 18 and a first-year student at Lehigh. I'm from Bethlehem, PA and I enjoy exercising, reading, writing, listening to music, and having fun. I love sports, mostly football and basketball. I am planning to study Business and Psychology which will help me with a Marketing position in the future. This page is for all of my work for our Data Journalism seminar. I decided to take this class because I have had some experiences with Journalism courses that were very interesting and since I also took Statistics, I wanted to learn how the two subjects can be used together as tools for writing. 
@@ -133,7 +133,7 @@ For more information, check out the sources of my data: [Dak Prescott](https://w
 
 # Timelines
 
-**bold*Lehigh vs. Lafayette Football - Over the Years 
+Lehigh vs. Lafayette Football - Over the Years 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1UJPC4WAYCl6SZgQV8Ot9y-ZT3ZBR3L-D2SG4OZKrIhs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
