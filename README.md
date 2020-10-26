@@ -73,7 +73,6 @@ body {
 <body>
 
 <div class="navbar">
-  <a href="#home">Home</a>
   <a href="https://ethank11.github.io/#infographics">Infographics</a>
   <a href="https://ethank11.github.io/#timelines">Timelines</a>
   <a href="https://ethank11.github.io/#charts">Charts</a>
