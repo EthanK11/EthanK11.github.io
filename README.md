@@ -1,4 +1,4 @@
-
+# Home 
 
 <html>
 <head>
@@ -102,7 +102,7 @@ body {
 
 <img src="https://user-images.githubusercontent.com/71404233/93617279-c519a880-f9a3-11ea-87ba-ecd81794f3d8.jpeg" alt="photo" width="450" height="600"/>
 
-# Home
+
 
 About Me
 
