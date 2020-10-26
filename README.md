@@ -73,6 +73,7 @@ body {
 <body>
 
 <div class="navbar">
+  <option value="https://ethank11.github.io/#home">Home</option> 
   <a href="#home">Home</a>
   <div class="dropdown">
     <button class="dropbtn">Dropdown 
