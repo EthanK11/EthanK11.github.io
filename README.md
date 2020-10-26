@@ -78,16 +78,7 @@ body {
   <a href="https://ethank11.github.io/#timelines">Timelines</a>
   <a href="https://ethank11.github.io/#charts">Charts</a>
   <a href="https://ethank11.github.io/#maps">Maps</a>
-  <div class="dropdown">
-    <button class="dropbtn">Dropdown 
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      <a href="#">Infographics</a>
-      <a href="#">Timelines</a>
-      <a href="#">Charts</a>
-      <a href="#">Maps</a>
-    </div>
+  
   </div> 
 </div>
 
