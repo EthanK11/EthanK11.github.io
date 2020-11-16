@@ -191,14 +191,14 @@ The time series line chart above depicts the immense success of the iPhone, whic
 
 **2019 World's Top Cycling Cities**
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1cg9hGel4FLPcExEa9l4xB6v80DhSgV5O" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1cg9hGel4FLPcExEa9l4xB6v80DhSgV5O" width="600" height="480"></iframe>
 
 The above map, made using Google My Maps, illustrates the top 20 cycling cities in the world during 2019, ranked in this article: [The 20 Most Bike-Friendly Cities on the Planet, Ranked](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
 
 
 **The World's Top 10 Most Visited Tourist Destinations**
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1YtWWIsjVcfXBEeNBn5VHAl1_DWKNG3_F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1YtWWIsjVcfXBEeNBn5VHAl1_DWKNG3_F" width="600" height="480"></iframe>
 
 The map above displays the locations of the world's top 10 most visited tourist destinations, ranging from the Forbidden City in Beijing to the Las Vegas Strip. The 10 different points on the map include pictures, descriptions, the [source of the data](https://www.businessinsider.com/the-50-most-visited-tourist-attractions-in-the-world-2014-3), and the rankings of the most visited locations in this order: Las Vegas Strip, Times Square, Central Park, Washington Union Station, Niagara Falls, Grand Central Terminal, Faneuil Hall Marketplace, Disneyworld Orlando, Disneyland Anaheim, and Forbidden City.  
 
