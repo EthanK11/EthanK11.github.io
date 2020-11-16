@@ -78,6 +78,7 @@ body {
   <a href="https://ethank11.github.io/#charts">Charts</a>
   <a href="https://ethank11.github.io/#maps">Maps</a>
   <a href="https://ethank11.github.io/#tableau">Tableau</a>
+   <a href="https://ethank11.github.io/#video">Video</a>
   
 </div>
 
@@ -219,6 +220,15 @@ The above data visualization is a three-part interpretation of results provided 
 
 
 This data story attempts to pose and answer the question: how could the United States of America - the country with the largest economy and GDP, a worldwide superpower - allow the highest number of gun deaths among the most industrialized nations in the world? The first page introduces the countries with the highest GDP (the total value of all final goods and services produced in a year): United States, China, Japan, Germany, United Kingdom, France, India, and Italy, in  order. Moving on to the second page, the connection between these powerful, first-world nations is drawn with the number of firearm-related deaths per 100,000 people in each nation. It is shockingly clear that out of these developed and thriving areas of the world, America leads in annual gun violence by a substantial amount - over 12 people killed for every 100,000. The important question is... why? The final section of the story illustrates the general perspectives towards gun laws from of a variety of American demographics, including men, women, republicans, democrats, college graduates, uneducated people, and various age groups. The common theme - guns are engraved into the foundation of our country. The Constitution itself provides Americans with the 'right to bear arms', to possess a gun. We have persisted in our support for citizens to own weapons, allowing 30% of people to currently own a gun and 11% of people to live with someone who owns a gun. Our firearm regulations allow 18 year olds to purchase shotguns, rifles, and ammunition along with granting people over 21 the access to all other weapons of this type. Of course, with the considerable supply of firearms in our country, it is not difficult to find loopholes or obtain weapons illegally. However, in any case, why should people who claim to own guns for hunting be able to purchase an assault rifle - a weapon meant for killing PEOPLE? While there has been some unsuccessful oppostion to assault weapons- attempts to enact a ban on these firearms- there are no hunters or recreational gun owners who should own automatic guns that shoot hundreds of bullets per minute. The data visualizations above were supplied with statistics from a Pew Research survey conducted in 2019 and they should act as a spotlight on the fatal, chaotic events that we have allowed to unfold through our negligence.  For more information on this subject matter, visit [Tableau Public](https://public.tableau.com/profile/ethan.kennedy#!/vizhome/WhyDoestheMostPowerfulCountryintheWorld___AllowtheHighestNumberofGunDeaths/Story1?publish=yes) for the original format data story and visit these sites concerning [The World's Largest Economies](https://www.investopedia.com/insights/worlds-top-economies/) and [Facts About Gun Ownership in America](https://www.pewresearch.org/fact-tank/2019/10/22/facts-about-guns-in-united-states/). 
+
+# Video
+
+**Gun Violence in America**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/atK8-P_SFOQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This project transforms the above data visualization into an emotional, frightening video that illustrates one of the major issues that persists in the United States of America. Visit the original [YouTube](https://www.youtube.com/watch?v=atK8-P_SFOQ) video and check out the story written above for more information on this topic. 
+
+
 
 
 
