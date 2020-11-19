@@ -105,20 +105,14 @@ body {
 
 
 
-**About Me**
-
-
-My name is Ethan Kennedy, I'm 18 and a first-year student at Lehigh. I'm from Bethlehem, PA and I enjoy exercising, reading, writing, listening to music, and having fun. I love sports, mostly football and basketball. I am planning to study Business and Psychology which will help me with a Marketing position in the future. This page is for all of my work for our Data Journalism seminar. I decided to take this class because I have had some experiences with Journalism courses that were very interesting and since I also took Statistics, I wanted to learn how the two subjects can be used together as tools for writing. 
-
-[LinkedIn Page](https://www.linkedin.com/in/ethan-kennedy-1b65741b2/)
-
-
 
 
 
 
 ![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/comic%20slide%20%231.png?raw=true)
-
+![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/comic%20slide%20%232.png?raw=true)
+![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/comic%20slide%20%233.png?raw=true)
+![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/comic%20slide%20%234.png?raw=true)
 
 
 
