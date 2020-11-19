@@ -112,6 +112,16 @@ My name is Ethan Kennedy, I'm 18 and a first-year student at Lehigh. I'm from Be
 
 [LinkedIn Page](https://www.linkedin.com/in/ethan-kennedy-1b65741b2/)
 
+
+
+
+
+
+
+
+
+
+
 # Infographics
 
 **The Distribution of Undergradute Student Enrollment At Lehigh in 2019**
