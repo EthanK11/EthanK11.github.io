@@ -117,7 +117,7 @@ My name is Ethan Kennedy, I'm 18 and a first-year student at Lehigh. I'm from Be
 
 
 
-
+![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/comic%20slide%20%231.png?raw=true)
 
 
 
