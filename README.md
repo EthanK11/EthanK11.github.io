@@ -96,7 +96,7 @@ body {
 
 
 
-
+![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/about%20me%20.png?raw=true)
 
 
 
