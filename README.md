@@ -140,11 +140,11 @@ For more information, check out the sources of my data: [Dak Prescott](https://w
 This timeline shows how one of the biggest rivalries in college sports - Lehigh vs. Lafayette football - has developed from 1884 to 2020. 
 
 
-**The Weeknd's Rise to Fame**
+**The Weeknd's Rise to An Icon**
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1g0Wu_8gAR0k_Ygyz7I3mU4OTu83Yei23t5U6QZHuiCo&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-This timeline displays The Weeknd's success throughout his career, beginning as an unknown singer in 2011, to becoming the world's biggest artist today. I detail his accomplishments within each of his projects or albums including: Trilogy (a remastered compilation of early mixtapes), Kiss Land, Beauty Behind the Madness, Starboy, My Dear Melancholy, and most recently, After Hours. 
+This timeline illustrates The Weeknd's success throughout his career, beginning as an unknown singer in 2011, to becoming the world's biggest artist today.  detail His accomplishments within each of his projects or albums are detailed including: Trilogy (a remastered compilation of early mixtapes), Kiss Land, Beauty Behind the Madness, Starboy, My Dear Melancholy, and most recently, After Hours. The images are the covers of his albums and although most of this information was prior knowledge, here are sources to visit for more information about The Weeknd's success in data: [Britannica](https://www.britannica.com/biography/the-Weeknd), [Business Insider](https://www.businessinsider.com/how-the-weeknd-got-his-start-on-youtube-2015-8), [Biography](https://www.biography.com/musician/the-weeknd)
 
 # Charts
 
@@ -163,7 +163,7 @@ This bar graph displays the distribution of the enrollment in Lehigh's six colle
 
 
 **Total Spotify Streams of 2020 Albums that Peaked at #1 on the Billboard Chart** 
-![image](https://github.com/EthanK11/EthanK11.github.io/blob/37b7a45ffb481ba12fab0647c826328e5e77a431/Total_Streams_of_Albums_that_Peaked_at_%231_in_2020_Number_of_Streams_(billions)_chartbuilder.png?raw=true)
+![image](https://github.com/EthanK11/EthanK11.github.io/blob/master/A_Number_of_Streams_(billions)_chartbuilder.png?raw=true)
 
 This bar graph exhibits the Spotify streams of 9 albums that peaked at #1 on the Billboard 200 Chart. The data was collected from both Spotify and Billboard and contains albums from The Weeknd, Harry Styles, BTS, Justin Bieber, Lil Uzi Vert, Juice WRLD, Pop Smoke, Selena Gomez, and Lil Baby, in order of most to least streams. Here is a currently updated list of all albums that have been realeased in 2020 that hit #1 on Billboard by [Insider.com](https://www.insider.com/number-1-albums-this-year-billboard-200-chart-2020-8)
 
