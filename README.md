@@ -165,7 +165,7 @@ This bar graph displays the distribution of the enrollment in Lehigh's six colle
 **Total Spotify Streams of 2020 Albums that Peaked at #1 on the Billboard Chart** 
 ![image](https://github.com/EthanK11/EthanK11.github.io/blob/37b7a45ffb481ba12fab0647c826328e5e77a431/Total_Streams_of_Albums_that_Peaked_at_%231_in_2020_Number_of_Streams_(billions)_chartbuilder.png?raw=true)
 
-This bar graph exhibits the Spotify streams of 9 albums that peaked at #1 on the Billboard 200 Chart. The data was collected from both Spotify and Billboard and contains albums from The Weeknd, Harry Styles, BTS, Justin Bieber, Lil Uzi Vert, Juice WRLD, Pop Smoke, Selena Gomez, and Lil Baby, in order of most to least streams. 
+This bar graph exhibits the Spotify streams of 9 albums that peaked at #1 on the Billboard 200 Chart. The data was collected from both Spotify and Billboard and contains albums from The Weeknd, Harry Styles, BTS, Justin Bieber, Lil Uzi Vert, Juice WRLD, Pop Smoke, Selena Gomez, and Lil Baby, in order of most to least streams. Here is a currently updated list of all albums that have been realeased in 2020 that hit #1 on Billboard by [Insider.com](https://www.insider.com/number-1-albums-this-year-billboard-200-chart-2020-8)
 
 
 **The Changes in Undergraduate Enrollment of Lehigh's Colleges from 2015-2019**
